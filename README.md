@@ -1,6 +1,3 @@
-# Mi-Engrama: Segundo Cerebro Personal
-
-**Mi-Engrama** es una plantilla y arquitectura para construir un **Segundo Cerebro personal** en Markdown, diseñado para usarse con **Obsidian**. Combina la organización por accionabilidad del **Método PARA** con el patrón de acumulación de conocimiento **LLM Wiki**.
 
 ---
 
