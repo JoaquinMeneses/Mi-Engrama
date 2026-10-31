@@ -66,17 +66,14 @@ Mi-Engrama/
 ├── AGENTS.md                   &lt;-- Esquema de reglas e instrucciones para el LLM
 ├── 1. Proyectos/               &lt;-- Proyectos activos con meta y fecha límite
 ├── 2. Áreas/                   &lt;-- Áreas de responsabilidad continua
-├── 3. Recurso/                 &lt;-- Temas de interés e investigación activa
-│   └── [Tema]/                 &lt;-- Estructura modular por tema
-│       ├── Fuentes/            &lt;-- Documentos brutos (notas humanas, PDFs)
+├── 3. Recursos/                 &lt;-- Temas de interés e investigación activa
+│   └── [Tema]/                 &lt;-- Estructura modular por tema que almacena Documentos brutos (notas humanas, PDFs)
 │       └── Sintesis/           &lt;-- Capa Wiki de la IA (index.md, log.md, conceptos)
 └── 4. Archivos/                &lt;-- Contenedor de elementos inactivos
     ├── Proyectos/              &lt;-- Proyectos completados o pausados
     ├── Áreas/                  &lt;-- Ámbitos de responsabilidad que ya no mantienes
-    └── Rrecursos/              &lt;-- Recursos y temas que perdieron relevancia actual
+    └── Recursos/              &lt;-- Recursos y temas que perdieron relevancia actual
         └── [Tema]/
-            ├── Fuentes/
-            └── Sintesis/
 
 ```
 
