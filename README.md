@@ -77,9 +77,13 @@ Mi-Engrama/
 
 ```
 
+---
 ### **¿Por qué esta estructura optimiza la productividad?**
 
 - **Flexibilidad (Con o Sin IA)**:
-    - **Sin IA**: Si prefieres no usar modelos de lenguaje, la bóveda funciona perfectamente como un sistema PARA tradicional en Obsidian. La separación por temas con carpetas de `Fuentes` y `Síntesis` te permite mantener tus lecturas originales ordenadas junto a tus notas personales sin saturar tu espacio de trabajo.
-    - **Con IA (LLM Wiki)**: Al activar un agente de IA, la productividad se multiplica. El trabajo tedioso de "contabilidad digital" (crear notas de conceptos, actualizar enlaces bidireccionales, mantener el `index.md` y redactar resúmenes) se delega por completo en el modelo. Tu rol se enfoca exclusivamente en curar buenas fuentes y realizar las preguntas adecuadas.
+    
+    - **Sin IA**: Si prefieres no usar modelos de lenguaje, la bóveda funciona de forma limpia como un sistema **PARA** tradicional en Obsidian. Al colocar tus lecturas primarias (PDFs, notas brutas) en la raíz del `[Tema]` y reservar `Sintesis/` para tus propias notas procesadas o resúmenes, mantienes tu material de consulta bien delimitado del conocimiento refinado sin saturar la navegación visual ni agregar clicks innecesarios.
+        
+    - **Con IA (LLM Wiki)**: Al activar un agente de IA, la productividad se multiplica. El trabajo tedioso de "contabilidad digital" (crear notas de conceptos, actualizar enlaces bidireclonales `[[...]]`, mantener el `index.md` y redactar resúmenes) se delega por completo en el modelo. Tu rol se enfoca exclusivamente en aportar buenas fuentes en la raíz del tema y realizar las preguntas adecuadas.
+        
 - **Archivado Atómico**: Si un tema o proyecto deja de ser relevante, basta con trasladar la carpeta correspondiente (`1. Proyectos/[Proyecto]`, `2. Áreas/[Área]` o `3. Recursos/[Tema]`) a su subcarpeta equivalente dentro de `4. Archivos/` en un solo paso y sin dejar archivos huérfanos.
