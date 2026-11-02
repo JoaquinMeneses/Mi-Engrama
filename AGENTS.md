@@ -65,8 +65,8 @@ Actualizar una página con una sección nueva, un enlace o una corrección puntu
 
 **Fuentes.** Se normalizan una sola vez, al ingerir, y después no se tocan:
 
-- `author` como texto plano. El Web Clipper a veces escribe un wikilink (`[[Tiago Forte]]`) o un ID numérico de cuenta (`[[262588213843476]]`); ambos apuntan a notas inexistentes y ensucian el grafo.
-- No agregar campos nuevos ni reescribir el contenido del clipping.
+- `author` como texto plano. Algunas herramientas de origen (un clipper, un exportador, un copiar y pegar desde otra aplicación) escriben ese campo como wikilink (`[[Tiago Forte]]`) o como ID numérico de cuenta (`[[262588213843476]]`); ambos apuntan a notas inexistentes y ensucian el grafo.
+- No agregar campos nuevos ni reescribir el cuerpo de la fuente.
 
 **Síntesis.**
 
