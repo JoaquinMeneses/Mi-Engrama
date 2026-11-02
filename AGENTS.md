@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Contrato de trabajo para cualquier agente de IA que opere sobre la bóveda **Mi-Engrama**.
+Contrato de trabajo para cualquier agente de IA que opere sobre la bóveda.
 
 El `README.md` explica el *por qué* en lenguaje humano. Este archivo define el *qué* y el *cómo*. **Si los dos se contradicen, gana este archivo.**
 
