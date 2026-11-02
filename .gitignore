@@ -1,0 +1,9 @@
+# Andamiaje del agente: contiene rutas absolutas de la máquina local.
+.atl/
+
+# Configuración local de herramientas.
+.gga
+
+# Layout de Obsidian: se regenera solo y cambia en cada sesión.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
