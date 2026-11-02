@@ -2,13 +2,15 @@
 title: "The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"
 source: https://fortelabs.com/blog/para/
 author:
-  - "[[Tiago Forte]]"
+  - Tiago Forte
 published: 2023-02-24
 created: 2026-11-02
 description: Learn how to organize your digital life in seconds. Stop wasting time looking for information and gain greater focus on what matters most.
 tags:
   - clippings
 ---
+> Nota introductoria de la plantilla. Explica de dónde viene este repositorio y qué busca resolver. Si ya entendiste el sistema, puedes borrarla o reescribirla con tu propio motivo.
+
 Imagine for a moment the perfect organizational system.
 
 A system that told you *exactly* where to put every piece of information in your life – every document, file, note, agenda, outline, and bit of research – and exactly where to find it when you needed it.

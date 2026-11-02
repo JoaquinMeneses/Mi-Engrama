@@ -1,14 +1,15 @@
 ---
-title: "llm-wiki"
-source: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
+title: llm-wiki
+source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 author:
-  - "[[262588213843476]]"
-published:
+  - Andrej Karpathy
+published: 2026-04-04
 created: 2026-11-02
 description: "llm-wiki. GitHub Gist: instantly share code, notes, and snippets."
 tags:
-  - "clippings"
+  - clippings
 ---
+> Nota introductoria de la plantilla. Explica de dónde viene este repositorio y qué busca resolver. Si ya entendiste el sistema, puedes borrarla o reescribirla con tu propio motivo.
 ## LLM Wiki
 
 A pattern for building personal knowledge bases using LLMs.
